@@ -1,0 +1,13 @@
+C:\Users\BJla6\source\repos\cross\Course3_1\bin\Debug\Course3_1.exe.config
+C:\Users\BJla6\source\repos\cross\Course3_1\bin\Debug\Course3_1.exe
+C:\Users\BJla6\source\repos\cross\Course3_1\bin\Debug\Course3_1.pdb
+C:\Users\BJla6\source\repos\cross\Course3_1\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.csproj.AssemblyReference.cache
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.Form1.resources
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.Properties.Resources.resources
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.csproj.GenerateResource.cache
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.csproj.CoreCompileInputs.cache
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.csproj.CopyComplete
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.exe
+C:\Users\BJla6\source\repos\cross\Course3_1\obj\Debug\Course3_1.pdb
